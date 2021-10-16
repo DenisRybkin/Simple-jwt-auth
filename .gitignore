@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/daemon
+.idea
+yarn.lock
+package-lock.json
+yarn-error.log
